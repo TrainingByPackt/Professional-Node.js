@@ -1,0 +1,17 @@
+{
+  "name": "01_umd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "umdModule.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "~1.18.2",
+    "errorhandler": "~1.5.0",
+    "express": "~4.16.3",
+    "request": "~2.85.0"
+  }
+}

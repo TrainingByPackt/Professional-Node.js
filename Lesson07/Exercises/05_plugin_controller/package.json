@@ -1,0 +1,20 @@
+{
+  "name": "auth-service-plugin-controlled",
+  "version": "1.0.0",
+  "description": "Using Dependency Injection (DI) it demonstrates how you an implement an express auth service",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "~2.0.0",
+    "errorhandler": "~1.5.0",
+    "express": "~4.16.3",
+    "jwt-simple": "~0.5.1",
+    "level": "~3.0.0",
+    "level-sublevel": "~6.6.1",
+    "parse-fn-args": "~1.0.0"
+  }
+}

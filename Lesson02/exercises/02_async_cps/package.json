@@ -1,0 +1,14 @@
+{
+  "name": "async-cps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Ch02_async_cps_ex2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {}
+}

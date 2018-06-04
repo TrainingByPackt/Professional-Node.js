@@ -1,0 +1,14 @@
+{
+  "name": "zalgo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Ch02_zalgo_ex1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {}
+}

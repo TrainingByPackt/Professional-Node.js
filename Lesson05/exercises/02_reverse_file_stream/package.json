@@ -1,0 +1,10 @@
+{
+  "name": "streams-composability",
+  "version": "0.0.1",
+  "dependencies": {
+    "fs-backwards-stream": "0.0.0",
+    "fs-reverse": "0.0.3",
+    "regex": "~0.1.1"
+  },
+  "devDependencies": {}
+}

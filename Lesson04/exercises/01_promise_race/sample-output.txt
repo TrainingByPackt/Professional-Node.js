@@ -1,0 +1,115 @@
+➜  01_promise_race git:(master) ✗ node promise-race.js
+Race finished the winner was The Red Max driving The Crimson Haybaler!
+Race finished the winner was Peter Perfect driving The Turbo Terrific!
+Race finished the winner was The Ant Hill Mob driving The Bulletproof Bomb!
+Race finished the winner was Rufus Ruffcut and Sawtooth driving The Buzzwagon!
+Race finished the winner was Luke and Blubber Bear driving The Arkansas Chuggabug!
+Race finished the winner was Penelope Pitstop driving The Compact Pussycat!
+Race finished the winner was The Red Max driving The Crimson Haybaler!
+Race finished the winner was The Ant Hill Mob driving The Bulletproof Bomb!
+Race finished the winner was Luke and Blubber Bear driving The Arkansas Chuggabug!
+Race finished the winner was The Slag Brothers driving The Boulder Mobile!
+Race finished the winner was Peter Perfect driving The Turbo Terrific!
+Race finished the winner was The Slag Brothers driving The Boulder Mobile!
+Race finished the winner was Luke and Blubber Bear driving The Arkansas Chuggabug!
+Race finished the winner was Rufus Ruffcut and Sawtooth driving The Buzzwagon!
+Race finished the winner was The Ant Hill Mob driving The Bulletproof Bomb!
+Race finished the winner was The Gruesome Twosome driving The Creepy Coupe!
+Race finished the winner was The Gruesome Twosome driving The Creepy Coupe!
+Race finished the winner was Rufus Ruffcut and Sawtooth driving The Buzzwagon!
+Race finished the winner was Rufus Ruffcut and Sawtooth driving The Buzzwagon!
+Race finished the winner was Peter Perfect driving The Turbo Terrific!
+Race finished the winner was The Gruesome Twosome driving The Creepy Coupe!
+Race finished the winner was Rufus Ruffcut and Sawtooth driving The Buzzwagon!
+Race finished the winner was Dick Dastardly and Muttley driving The Mean Machine!
+Race finished the winner was Penelope Pitstop driving The Compact Pussycat!
+Race finished the winner was Rufus Ruffcut and Sawtooth driving The Buzzwagon!
+Race finished the winner was Dick Dastardly and Muttley driving The Mean Machine!
+Race finished the winner was The Gruesome Twosome driving The Creepy Coupe!
+Race finished the winner was Luke and Blubber Bear driving The Arkansas Chuggabug!
+Race finished the winner was Professor Pat Pending driving The Convert-A-Car!
+Race finished the winner was The Red Max driving The Crimson Haybaler!
+Race finished the winner was Peter Perfect driving The Turbo Terrific!
+Race finished the winner was Penelope Pitstop driving The Compact Pussycat!
+Race finished the winner was Professor Pat Pending driving The Convert-A-Car!
+Race finished the winner was Dick Dastardly and Muttley driving The Mean Machine!
+Race finished the winner was The Gruesome Twosome driving The Creepy Coupe!
+Race finished the winner was Professor Pat Pending driving The Convert-A-Car!
+Race finished the winner was The Ant Hill Mob driving The Bulletproof Bomb!
+Race finished the winner was The Red Max driving The Crimson Haybaler!
+Race finished the winner was The Gruesome Twosome driving The Creepy Coupe!
+Race finished the winner was Rufus Ruffcut and Sawtooth driving The Buzzwagon!
+Race finished the winner was Luke and Blubber Bear driving The Arkansas Chuggabug!
+Race finished the winner was Peter Perfect driving The Turbo Terrific!
+Race finished the winner was The Gruesome Twosome driving The Creepy Coupe!
+Race finished the winner was Dick Dastardly and Muttley driving The Mean Machine!
+Race finished the winner was The Gruesome Twosome driving The Creepy Coupe!
+Race finished the winner was Penelope Pitstop driving The Compact Pussycat!
+Race finished the winner was The Red Max driving The Crimson Haybaler!
+Race finished the winner was Dick Dastardly and Muttley driving The Mean Machine!
+Race finished the winner was The Gruesome Twosome driving The Creepy Coupe!
+Race finished the winner was Penelope Pitstop driving The Compact Pussycat!
+Race finished the winner was The Gruesome Twosome driving The Creepy Coupe!
+Race finished the winner was The Ant Hill Mob driving The Bulletproof Bomb!
+Race finished the winner was The Slag Brothers driving The Boulder Mobile!
+Race finished the winner was The Gruesome Twosome driving The Creepy Coupe!
+Race finished the winner was The Slag Brothers driving The Boulder Mobile!
+Race finished the winner was Peter Perfect driving The Turbo Terrific!
+Race finished the winner was Sergeant Blast and Private Meekly driving The Army Surplus Special!
+Race finished the winner was Dick Dastardly and Muttley driving The Mean Machine!
+Race finished the winner was The Red Max driving The Crimson Haybaler!
+Race finished the winner was Rufus Ruffcut and Sawtooth driving The Buzzwagon!
+Race finished the winner was The Ant Hill Mob driving The Bulletproof Bomb!
+Race finished the winner was The Ant Hill Mob driving The Bulletproof Bomb!
+Race finished the winner was The Ant Hill Mob driving The Bulletproof Bomb!
+Race finished the winner was Luke and Blubber Bear driving The Arkansas Chuggabug!
+Race finished the winner was Peter Perfect driving The Turbo Terrific!
+Race finished the winner was Rufus Ruffcut and Sawtooth driving The Buzzwagon!
+Race finished the winner was Dick Dastardly and Muttley driving The Mean Machine!
+Race finished the winner was Rufus Ruffcut and Sawtooth driving The Buzzwagon!
+Race finished the winner was Professor Pat Pending driving The Convert-A-Car!
+Race finished the winner was Luke and Blubber Bear driving The Arkansas Chuggabug!
+Race finished the winner was The Ant Hill Mob driving The Bulletproof Bomb!
+Race finished the winner was The Ant Hill Mob driving The Bulletproof Bomb!
+Race finished the winner was The Gruesome Twosome driving The Creepy Coupe!
+Race finished the winner was Rufus Ruffcut and Sawtooth driving The Buzzwagon!
+Race finished the winner was The Red Max driving The Crimson Haybaler!
+Race finished the winner was The Slag Brothers driving The Boulder Mobile!
+Race finished the winner was Luke and Blubber Bear driving The Arkansas Chuggabug!
+Race finished the winner was Peter Perfect driving The Turbo Terrific!
+Race finished the winner was The Gruesome Twosome driving The Creepy Coupe!
+Race finished the winner was Penelope Pitstop driving The Compact Pussycat!
+Race finished the winner was Dick Dastardly and Muttley driving The Mean Machine!
+Race finished the winner was The Gruesome Twosome driving The Creepy Coupe!
+Race finished the winner was Rufus Ruffcut and Sawtooth driving The Buzzwagon!
+Race finished the winner was The Ant Hill Mob driving The Bulletproof Bomb!
+Race finished the winner was Peter Perfect driving The Turbo Terrific!
+Race finished the winner was The Red Max driving The Crimson Haybaler!
+Race finished the winner was The Slag Brothers driving The Boulder Mobile!
+Race finished the winner was The Gruesome Twosome driving The Creepy Coupe!
+Race finished the winner was Peter Perfect driving The Turbo Terrific!
+Race finished the winner was Professor Pat Pending driving The Convert-A-Car!
+Race finished the winner was The Slag Brothers driving The Boulder Mobile!
+Race finished the winner was The Slag Brothers driving The Boulder Mobile!
+Race finished the winner was The Gruesome Twosome driving The Creepy Coupe!
+Race finished the winner was Luke and Blubber Bear driving The Arkansas Chuggabug!
+Race finished the winner was The Gruesome Twosome driving The Creepy Coupe!
+Race finished the winner was Luke and Blubber Bear driving The Arkansas Chuggabug!
+Race finished the winner was The Slag Brothers driving The Boulder Mobile!
+Race finished the winner was The Slag Brothers driving The Boulder Mobile!
+Race finished the winner was The Ant Hill Mob driving The Bulletproof Bomb!
+Race finished the winner was Sergeant Blast and Private Meekly driving The Army Surplus Special!
+-----------------------
+Wacky Races Leaderboard
+-----------------------
+#0 The Gruesome Twosome Wins 17
+#1 The Ant Hill Mob Wins 12
+#2 Rufus Ruffcut and Sawtooth Wins 12
+#3 Luke and Blubber Bear Wins 10
+#4 Peter Perfect Wins 10
+#5 The Slag Brothers Wins 10
+#6 The Red Max Wins 8
+#7 Dick Dastardly and Muttley Wins 8
+#8 Penelope Pitstop Wins 6
+#9 Professor Pat Pending Wins 5
+#10 Sergeant Blast and Private Meekly Wins 2

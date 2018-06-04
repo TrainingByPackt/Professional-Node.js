@@ -1,0 +1,14 @@
+{
+  "name": "state-socket",
+  "version": "1.0.0",
+  "description": "Demonstrates State Socket pattern",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-over-tcp": "~0.3.2"
+  }
+}

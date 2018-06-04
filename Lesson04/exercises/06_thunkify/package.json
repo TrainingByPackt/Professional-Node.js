@@ -1,0 +1,20 @@
+{
+  "name": "thunkify-spider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Ch04_parallel_excution_demo4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "~0.17.0",
+    "co": "~4.6.0",
+    "mkdirp": "~0.5.1",
+    "path": "~0.12.7",
+    "request": "~2.83.0",
+    "slug": "~0.9.1",
+    "thunkify": "~2.1.2"
+  }
+}

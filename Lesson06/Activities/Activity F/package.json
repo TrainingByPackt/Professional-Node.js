@@ -1,0 +1,15 @@
+{
+  "name": "strategy-media-player",
+  "version": "1.0.0",
+  "description": "Demonstrating the use of strategies for online / offline when using a media player",
+  "main": "mediaClient.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-id3": "~0.1.3",
+    "read-id3-tags": "~1.1.0"
+  }
+}

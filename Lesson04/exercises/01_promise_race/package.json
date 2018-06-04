@@ -1,0 +1,8 @@
+{
+  "name": "promise-race",
+  "version": "0.0.0",
+  "dependencies": {
+    "bluebird": "^3.5.0"
+  },
+  "devDependencies": {}
+}

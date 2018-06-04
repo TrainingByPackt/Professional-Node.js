@@ -1,0 +1,14 @@
+{
+  "name": "observable-events",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Ch02_observable_ex5.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {}
+}
